@@ -7,9 +7,10 @@ inventory going out of stock and losing a customer to a competitor.
 We use a dataset from a wonderful fictitious company named WarmeHands Inc. As with many retailers, 
 they want to investigate possible improvements in inventory management and purchases provided by **Datacamp**
 
+
 <p align="center">
   
-  <img src="https://github.com/Ahmed-R-Hamdan/Power-BI---Inventory-Analysis/blob/main/image/inventory.JPG"/>
+  <img src="https://github.com/Ahmed-R-Hamdan/Power-BI---Inventory-Analysis/blob/main/image/Inventory%20Dashboard.JPG"/>
 
 </P>
 
